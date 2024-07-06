@@ -1,1 +1,1 @@
-﻿# Projeto de um portifólio utilizando html e css.
+﻿# Projeto de um portfólio utilizando html e css.
